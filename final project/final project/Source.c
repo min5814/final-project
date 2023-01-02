@@ -1,7 +1,6 @@
 ﻿#include <stdio.h>
 #include <stdlib.h>	//要呼叫系統命令，需要匯入stdlib.h標頭檔案
 #include <conio.h>	//要接收鍵盤事件，需要匯入conio.h標頭檔案
-
 #define X 1
 #define O 2
 
