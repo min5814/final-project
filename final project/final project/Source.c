@@ -179,8 +179,6 @@ int main(void) {
 						printf("玩家O獲勝!\n");
 						return 0;
 					}
-
-
 					break;
 				}
 
